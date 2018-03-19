@@ -49,6 +49,7 @@ One tiny note when installing plugins, remember to `link` them to your projects 
 
 ## Miscellaneous
 *Misc plugins for ActionHero.*
+- [ah-cors-plugin](https://github.com/groupsky/ah-cors-plugin) - Configure CORS allowed origins
 - ~~[ah-stats-plugin](https://github.com/evantahler/ah-stats-plugin) - collection of methods that allow you to store arbitrary statistics about your server.~~
 
 ## Integrations
